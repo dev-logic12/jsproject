@@ -1,0 +1,14 @@
+# 의존성
+node_modules/
+dist/
+
+# API 키 — 절대 커밋 금지
+.env
+.env.local
+.env.production
+.env.*.local
+
+# 에디터
+.DS_Store
+.vscode/
+*.log
